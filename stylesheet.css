@@ -1,0 +1,24 @@
+#Message{
+	text-align: center;
+	font-size: 30;
+	color: darkred
+	
+}
+#NameInput{
+	text-align: center;
+	font-size: 25;
+}
+#Name{
+	font-size: 20;
+}
+
+#NameSubmit{
+	font-size:20;
+}
+#Thankyou{
+	text-align: center;
+	font-size: 30;
+}
+body{
+	background-color:darkgray
+}
